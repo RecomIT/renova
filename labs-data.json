@@ -1,0 +1,52 @@
+{
+  "modules": [
+    {
+      "id": "mod-privacy-llm",
+      "tag": "Trust & Safety",
+      "header": "Privacy Preserving LLM Engine",
+      "description": "Train and serve models with differential privacy, on-device adapters, and auditable inference trails for regulated cohorts.",
+      "status": "active",
+      "targetPath": "/labs/privacy-preserving-llm"
+    },
+    {
+      "id": "mod-knowledge-synth",
+      "tag": "Research",
+      "header": "Automated Knowledge Synthesizer",
+      "description": "Ingest heterogeneous corpora, resolve contradictions, and emit structured briefs with citation-backed claim graphs.",
+      "status": "beta",
+      "targetPath": "/labs/knowledge-synthesizer"
+    },
+    {
+      "id": "mod-sandbox-tracker",
+      "tag": "Platform",
+      "header": "Multi-Tenant Sandbox Tracker",
+      "description": "Isolate learner workspaces, quota GPU sandboxes, and visualize session lineage across orgs without cross-leakage.",
+      "status": "active",
+      "targetPath": "/labs/multi-tenant-sandbox"
+    },
+    {
+      "id": "mod-curriculum-graph",
+      "tag": "Learning Design",
+      "header": "Federated Curriculum Orchestrator",
+      "description": "Compose adaptive pathways from skill nodes, sync updates across institutions, and keep local policy envelopes intact.",
+      "status": "experimental",
+      "targetPath": "/labs/federated-curriculum"
+    },
+    {
+      "id": "mod-concept-atlas",
+      "tag": "Visualization",
+      "header": "Graph-Native Concept Atlas",
+      "description": "Map prerequisite webs, surface mastery gaps, and recommend micro-drills using sparse graph attention over learner telemetry.",
+      "status": "beta",
+      "targetPath": "/labs/concept-atlas"
+    },
+    {
+      "id": "mod-competency-radar",
+      "tag": "Assessment",
+      "header": "Real-Time Competency Radar",
+      "description": "Stream formative signals from IDE and LMS hooks into a live radar of proficiency, effort, and collaboration quality.",
+      "status": "active",
+      "targetPath": "/labs/competency-radar"
+    }
+  ]
+}
